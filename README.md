@@ -55,9 +55,20 @@ Bazı örnek projelerim:
 
 ---
 
+Projeye ait ekran görüntüleri aşağıda yer almaktadır:
 ## 📷 Ekran Görüntüleri
 
-Projeye ait ekran görüntüleri aşağıda yer almaktadır:
+### 🔸 Ana Sayfa
+![Ana Sayfa](screenshots/anasayfa.png)
+
+### 🔸 Yetenekler
+![Yetenekler](screenshots/yetenekler.png)
+
+### 🔸 Projeler
+![Projeler](screenshots/projeler.png)
+
+### 🔸 İletişim
+![İletişim](screenshots/iletisim.png)
 
 >
 
