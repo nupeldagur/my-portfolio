@@ -1,84 +1,53 @@
 # 🌐 Nupelda Gür | Kişisel CV ve Portfolyo Web Sitesi
 
-Merhaba! Bu proje, HTML5 ve CSS3 kullanılarak oluşturulmuş kişisel bir CV ve portfolyo web sitesidir. Yazılım yolculuğumu, yeteneklerimi ve projelerimi paylaşmak amacıyla geliştirdim.
+Merhaba! Bu proje, HTML5 ve CSS3 kullanılarak oluşturulmuş kişisel bir CV ve portfolyo web sitesidir.  
+Amaç, kendimi tanıtmak ve üzerinde çalıştığım projeleri paylaşmaktır.  
+
+---
 
 ## 📌 Proje Hakkında
-
-Bu web sitesi statik bir yapıdadır ve sadece HTML5 ile CSS3 kullanılarak hazırlanmıştır. Kişisel bilgilerimi, yazılım yeteneklerimi ve üzerinde çalıştığım projeleri sergileyen sade ve etkili bir tasarım hedeflenmiştir.
+Bu web sitesi statik bir yapıda olup HTML5 ve CSS3 ile geliştirilmiştir.  
+Projelerimi, yeteneklerimi ve iletişim bilgilerimi modern bir tasarımda sunmayı hedeflemektedir.  
 
 ---
 
-## 🧑‍💻 Geliştirici Hakkında
-
+## 👩‍💻 Geliştirici Hakkında
 *Adı:* Nupelda Gür  
-*Hakkımda:*  
-Hırslı ve meraklı bir yazılımcı adayıyım. Kodlamayı sadece çalıştırmak için değil, hayallerimi gerçekleştirmek için kullanıyorum. Yazılım dünyasında inovatif düşüncelerle fark yaratmayı hedefliyorum.
+
+*Hakkında:*  
+Hırslı ve meraklı bir yazılımcı adayıyım. Kodlamayı sadece çalıştırmak için değil, aynı zamanda inovatif çözümler üretmek ve fark yaratmak için öğreniyorum.  
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
-
-- HTML5
-- CSS3
-
----
-
-## 🚀 Bölümler
-
-### 🔹 Hakkımda
-Kendimi tanıttığım ve yazılım dünyasına olan tutkumdan bahsettiğim bölüm.
-
-### 🔹 Yetenekler
-Sahip olduğum teknik yetenekler:
-- HTML
-- CSS
-- Java
-- Python
-- Git & GitHub
-- C#
-
-### 🔹 Projeler
-Bazı örnek projelerim:
-1. *Otonom Hareket Eden Arduino Destekli Mini Araba*  
-   C# ile yazılmış, engelli bireyler için tasarlanmış bir araç projesi.
-
-2. *Basit ATM Projesi*  
-   C# ile yazılmış, temel işlemleri içeren örnek bir ATM uygulaması.
-
-3. *Gezegenler Temalı Web Sitesi (Asp-MVC)*  
-   Asp-MVC ile yapılmış mini web sitesi projesi.
-
-### 🔹 İletişim
-- 📧 [Mail Gönder](mailto:nupeldagur@gmail.com)
-- 🌐 [GitHub](https://github.com/nupeldagur)
-- 💼 [LinkedIn](https://linkedin.com/in/nupelda-gür)
+## 🔧 Kullanılan Teknolojiler
+- HTML5  
+- CSS3  
 
 ---
 
-Projeye ait ekran görüntüleri aşağıda yer almaktadır:
+## 📑 Bölümler
+- *Hakkımda* → Kendimi ve yazılıma olan ilgimi tanıttığım bölüm  
+- *Yetenekler* → Sahip olduğum teknik beceriler  
+- *Projeler* → Üzerinde çalıştığım projeler  
+- *İletişim* → Bana ulaşabileceğiniz bilgiler  
+
+---
+
 ## 📷 Ekran Görüntüleri
 
 ### 🔸 Ana Sayfa
-![Ana Sayfa](screenshots/anasayfa.png)
+<img src="github.com/user-attachments/assets/3931fa48-0091-4a47-b444-40376d0c04e5" width="150" />
 
 ### 🔸 Yetenekler
-![Yetenekler](screenshots/yetenekler.png)
+<img src="github.com/user-attachments/assets/3ed37d3a-b316-4346-bb9f-eadb7f0410ee" width="150" />
 
 ### 🔸 Projeler
-![Projeler](screenshots/projeler.png)
+<img src="github.com/user-attachments/assets/c416a9a5-3698-4f13-bf36-52dbc8b0c17b" width="150" />
 
 ### 🔸 İletişim
-![İletişim](screenshots/iletisim.png)
-
->
-
+<img src="github.com/user-attachments/assets/d5033661-a8b9-4924-805a-c05bd8ab21e7"width="150" />
 ---
-
-## 📂 Kurulum
-
-Projeyi yerel ortamınızda çalıştırmak için:
-
-```bash
-git clone https://github.com/kullaniciadi/cv-web-sitesi.git
-cd cv-web-sitesi
-index.html dosyasını tarayıcıda açın
+## 📫 İletişim
+- 📧 [Mail Gönder](mailto:nupeldagur@gmail.com)  
+- 🌍 [GitHub](https://github.com/)  
+- 💼 [LinkedIn](https://linkedin.com/)
