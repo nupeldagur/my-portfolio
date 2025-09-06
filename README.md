@@ -1,53 +1,53 @@
-# 🌐 Nupelda Gür | Kişisel CV ve Portfolyo Web Sitesi
+# 🌐 Nupelda Gür | Kişisel CV & Portfolyo Web Sitesi
 
-Merhaba! Bu proje, HTML5 ve CSS3 kullanılarak oluşturulmuş kişisel bir CV ve portfolyo web sitesidir.  
-Amaç, kendimi tanıtmak ve üzerinde çalıştığım projeleri paylaşmaktır.  
-
----
-
-## 📌 Proje Hakkında
-Bu web sitesi statik bir yapıda olup HTML5 ve CSS3 ile geliştirilmiştir.  
-Projelerimi, yeteneklerimi ve iletişim bilgilerimi modern bir tasarımda sunmayı hedeflemektedir.  
+Merhaba! Bu proje, yazılım yolculuğumu, yeteneklerimi ve projelerimi sergilemek için geliştirdiğim kişisel **CV & Portfolyo web sitesi**dir.  
+Tamamen **HTML5 ve CSS3** kullanılarak geliştirilmiştir.
 
 ---
 
-## 👩‍💻 Geliştirici Hakkında
-*Adı:* Nupelda Gür  
-
-*Hakkında:*  
-Hırslı ve meraklı bir yazılımcı adayıyım. Kodlamayı sadece çalıştırmak için değil, aynı zamanda inovatif çözümler üretmek ve fark yaratmak için öğreniyorum.  
-
----
-
-## 🔧 Kullanılan Teknolojiler
-- HTML5  
-- CSS3  
+## 📌 Özellikler
+- **Modern Tasarım:** Renk geçişleri, grid yapısı ve hover efektleri ile şık bir görünüm.  
+- **Responsive Grid:** Yetenekler ve projeler bölümü farklı ekran boyutlarına uyumlu.  
+- **İkon Desteği:** Font Awesome ikonlarıyla modern görünüm.  
+- **Kolay Geliştirilebilir:** Yeni projeler veya beceriler kolayca eklenebilir.
 
 ---
 
-## 📑 Bölümler
-- *Hakkımda* → Kendimi ve yazılıma olan ilgimi tanıttığım bölüm  
-- *Yetenekler* → Sahip olduğum teknik beceriler  
-- *Projeler* → Üzerinde çalıştığım projeler  
-- *İletişim* → Bana ulaşabileceğiniz bilgiler  
+## 🛠️ Kullanılan Teknolojiler
+- **HTML5** – Sayfa yapısı ve içerik  
+- **CSS3** – Tasarım, renk geçişleri ve responsive düzen  
+- **Font Awesome** – İkon desteği
 
 ---
 
-## 📷 Ekran Görüntüleri
+## 📂 Proje Yapısı
+📁 proje-klasörü
+├── index.html # Ana sayfa
+├── style.css # Tasarım stilleri
+└── README.md # Proje açıklaması
 
-### 🔸 Ana Sayfa
-<img src="github.com/user-attachments/assets/3931fa48-0091-4a47-b444-40376d0c04e5" width="150" />
 
-### 🔸 Yetenekler
-<img src="github.com/user-attachments/assets/3ed37d3a-b316-4346-bb9f-eadb7f0410ee" width="150" />
-
-### 🔸 Projeler
-<img src="github.com/user-attachments/assets/c416a9a5-3698-4f13-bf36-52dbc8b0c17b" width="150" />
-
-### 🔸 İletişim
-<img src="github.com/user-attachments/assets/d5033661-a8b9-4924-805a-c05bd8ab21e7"width="150" />
 ---
-## 📫 İletişim
+
+## 🚀 Nasıl Çalıştırılır?
+1. Proje dosyalarını bilgisayarınıza indirin.  
+2. `index.html` dosyasını bir tarayıcıda açın.  
+3. Hepsi bu kadar 🎉
+
+---
+
+## 👩‍💻 Hakkımda
+Ben **Nupelda Gür**.  
+Hırslı, meraklı ve üretken bir yazılım geliştirici adayıyım.  
+Kodlarımı sadece çalıştırmak için değil, hayallerimi gerçeğe dönüştürmek için yazıyorum.
+
 - 📧 [Mail Gönder](mailto:nupeldagur@gmail.com)  
-- 🌍 [GitHub](https://github.com/)  
-- 💼 [LinkedIn](https://linkedin.com/)
+- 💻 [GitHub](https://github.com/nupeldagur)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nupelda-gür/)
+
+---
+
+## 📸 Ekran Görüntüleri
+*(İstersen buraya projeden ekran görüntülerini ekleyebilirsin)*
+
+---
