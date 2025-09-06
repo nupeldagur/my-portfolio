@@ -2,9 +2,11 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Benim CV Web Sitem</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nupelda Gür | CV & Portfolyo</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
 
@@ -19,84 +21,138 @@
   </nav>
 
   <!-- HEADER -->
-  <header>
-    <h1>MERHABA! BEN NUPELDA GÜR</h1>
-    <p>Hırslı ve meraklı, kodlarını hayal dünyasıyla renklendiren bir yazılımcı adayı...</p>
+  <header class="hero">
+    <h1>MERHABA! BEN <span class="highlight">NUPELDA GÜR</span></h1>
+    <p>Hırslı, meraklı ve kodlarını hayal gücüyle renklendiren bir yazılımcı adayı...</p>
   </header>
 
-  <!-- HAKKIMDA -->
-  <section id="about">
-    <h2>Hakkımda</h2>
-    <p>İdealleri yüksek, hızlı öğrenebilen, meraklı ve pes etmeyi hayatından çıkarmış bir programcıyım. Yazılım bilgimi arttırarak inovatif bir düşünce tarzıyla fark yaratabileceğime inanıyorum.
-      Meraklı ve çözüm odaklı bir yazılımcıyım. Kodlarımı sadece çalıştırmak için değil, hayallerimi gerçeğe dönüştürmek için yazıyorum. Her projede fark yaratmayı hedefliyorum.
-    </p>
-  </section>
+  <main>
+    <!-- HAKKIMDA -->
+    <section id="about" class="section">
+      <h2>Hakkımda</h2>
+      <p>
+        İdealleri yüksek, hızlı öğrenebilen, meraklı ve pes etmeyi hayatından çıkarmış bir programcıyım. 
+        Yazılım bilgimi arttırarak inovatif bir düşünce tarzıyla fark yaratabileceğime inanıyorum. 
+        Kodlarımı sadece çalıştırmak için değil, hayallerimi gerçeğe dönüştürmek için yazıyorum.
+      </p>
+    </section>
 
-  <!-- YETENEKLER -->
-  <section id="skills">
-    <h2>Yetenekler</h2>
-    <div class="skills-list">
-      <div class="skill">
-        <i class="fa-brands fa-html"></i>
-        <p>HTML</p>
-        <div class="progress"><div style="width: 90%"></div></div>
-      </div>
-      <div class="skill">
-        <i class="fa-brands fa-css-alt"></i>
-        <p>CSS</p>
-        <div class="progress"><div style="width: 80%"></div></div>
-      </div>
-      <div class="skill">
-        <i class="fa-brands fa-java"></i>
-        <p>Java</p>
-        <div class="progress"><div style="width: 70%"></div></div>
-      </div>
-      <div class="skill">
-        <i class="fa-brands fa-python"></i>
-        <p>Python</p>
-        <div class="progress"><div style="width: 75%"></div></div>
-      </div>
-      <div class="skill">
-        <i class="fa-brands fa-git-alt"></i>
-        <p>Git & GitHub</p>
-        <div class="progress"><div style="width: 60%"></div></div>
-      </div>
-      <div class="skill">
-        <i class="fa-brands fa-C#-alt"></i>
-        <p>C#</p>
-        <div class="progress"><div style="width: 60%"></div></div>
-      </div>
-    </div>
-  </section>
+    <!-- YETENEKLER -->
+    <section id="skills" class="section">
+      <h2>Yetenekler</h2>
+      <div class="skills-list">
+        <div class="skill">
+          <i class="fa-brands fa-html5"></i>
+          <p>HTML</p>
+          <div class="progress"><div style="width: 90%"></div></div>
+        </div>
 
-  <!-- PROJELER -->
-  <section id="projects">
-    <h2>Projelerim</h2>
-    <div class="projects-list">
-      <div class="card">
-        <h3>Otonom Hareket Eden Arduino Destekli Mini Araba</h3>
-        <p>C# ile yazılımını yazmış olduğum ilgi çekici bir araba projem var. Projem "ENGELSİZ BİR YAŞAMI DESTEKLEMEYE YÖNELİK" bir araç projesidir.</p>
-      </div>
-      <div class="card">
-        <h3>Basit ATM Projesi</h3>
-        <p>Yapmış olduğum bir diğer proje C# ile yazdığım bir ATM projesi, basit işlemlerden oluşan bir örnektir.</p>
-      </div>
-      <div class="card">
-        <h3>Asp-MVC kullanarak yaptığım "Gezegenler" temalı mini web sitesi</h3>
-        <p>Bir diğer projem ise Asp-MVC ile yaptığım gezegenler temalı basit bir web sitesi örneğidir. Kendimi geliştirme yolunda basamak yaptığım mini projelerden biridir.</p>
-      </div>
-    </div>
-  </section>
+        <div class="skill">
+          <i class="fa-brands fa-css3-alt"></i>
+          <p>CSS</p>
+          <div class="progress"><div style="width: 80%"></div></div>
+        </div>
 
-  <!-- İLETİŞİM -->
-  <section id="contact">
-    <h2>İletişim</h2>
-    <div class="contact">
-      <a href="mailto:nupeldagur@gmail.com">Mail Gönder</a>
-      <a href="https://github.com/nupeldagur" target="_blank">GitHub</a>
-      <a href="https://www.linkedin.com/in/nupelda-gür/" target="_blank">LinkedIn</a>
-    </div>
-  </section>
+        <div class="skill">
+          <i class="fa-brands fa-java"></i>
+          <p>Java</p>
+          <div class="progress"><div style="width: 70%"></div></div>
+        </div>
+
+        <div class="skill">
+          <i class="fa-brands fa-python"></i>
+          <p>Python</p>
+          <div class="progress"><div style="width: 75%"></div></div>
+        </div>
+
+        <div class="skill">
+          <i class="fa-brands fa-git-alt"></i>
+          <p>Git & GitHub</p>
+          <div class="progress"><div style="width: 65%"></div></div>
+        </div>
+
+        <div class="skill">
+          <i class="fa-solid fa-code"></i>
+          <p>C#</p>
+          <div class="progress"><div style="width: 60%"></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJELER -->
+    <section id="projects" class="section">
+      <h2>Projelerim</h2>
+      <div class="projects-list">
+        <div class="card">
+          <h3>Otonom Hareket Eden Arduino Destekli Mini Araba</h3>
+          <p>
+            C# ile yazılımını yazmış olduğum ilgi çekici bir araba projem var. 
+            “Engelsiz bir yaşamı desteklemeye yönelik” tasarlanmış bir araçtır.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Basit ATM Projesi</h3>
+          <p>
+            C# ile yazdığım basit bankacılık işlemleri içeren bir ATM uygulaması geliştirdim.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Asp-MVC ile Gezegenler Temalı Mini Web Sitesi</h3>
+          <p>
+            Asp-MVC ile yaptığım gezegenler temalı web sitesi, 
+            web geliştirme yolunda kendimi geliştirdiğim mini projelerden biridir.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- İLETİŞİM -->
+    <section id="contact" class="section">
+      <h2>İletişim</h2>
+      <div class="contact">
+        <a href="mailto:nupeldagur@gmail.com"><i class="fa-solid fa-envelope"></i> Mail</a>
+        <a href="https://github.com/nupeldagur" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
+        <a href="https://www.linkedin.com/in/nupelda-gür/" target="_blank"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Nupelda Gür | Tüm hakları saklıdır.</p>
+  </footer>
+
+  <!-- Yukarı Çık Butonu -->
+  <button id="topBtn" title="Yukarı Çık">⬆</button>
+
+  <!-- JAVASCRIPT -->
+  <script>
+    const navbar = document.querySelector("nav");
+    const topBtn = document.getElementById("topBtn");
+
+    window.addEventListener("scroll", () => {
+      // Navbar küçülmesi
+      if (window.scrollY > 50) {
+        navbar.classList.add("shrink");
+      } else {
+        navbar.classList.remove("shrink");
+      }
+
+      // Yukarı çık butonunu göster/gizle
+      if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+        topBtn.style.display = "block";
+      } else {
+        topBtn.style.display = "none";
+      }
+    });
+
+    // Yukarı çıkma işlevi
+    topBtn.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
 
 </body>
 </html>
