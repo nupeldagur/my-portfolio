@@ -4,7 +4,14 @@ Merhaba! Bu proje, yazılım yolculuğumu, yeteneklerimi ve projelerimi sergilem
 Tamamen **HTML5 ve CSS3** kullanılarak geliştirilmiştir.
 
 
-<img src="https://github.com/user-attachments/assets/1844a0b1-5b5a-4b5f-981a-9c521848faa1" width="150" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5c43def5-579d-44b6-9de1-20c330a46ecf" width="500" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1844a0b1-5b5a-4b5f-981a-9c521848faa1" width="500" />
+  <img src="https://github.com/user-attachments/assets/2cc6fedb-01b4-4658-a0c2-d68c3d56f24e" width="500" />
+</div>
 
 ---
 
