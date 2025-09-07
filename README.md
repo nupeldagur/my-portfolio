@@ -3,6 +3,9 @@
 Merhaba! Bu proje, yazılım yolculuğumu, yeteneklerimi ve projelerimi sergilemek için geliştirdiğim kişisel **CV & Portfolyo web sitesi**dir.  
 Tamamen **HTML5 ve CSS3** kullanılarak geliştirilmiştir.
 
+
+<img src="https://github.com/user-attachments/assets/1844a0b1-5b5a-4b5f-981a-9c521848faa1" width="150" />
+
 ---
 
 ## 📌 Özellikler
